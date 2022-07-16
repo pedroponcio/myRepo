@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SquareGame:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a8e99624-18d4-4cc6-a247-13eacfef0d3d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SquareGame_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SquareGame/org/academiadecodigo/org/Controls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SquareGame/org/academiadecodigo/org/Controls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SquareGame/org/academiadecodigo/org/FileManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SquareGame/org/academiadecodigo/org/FileManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SquareGame/org/academiadecodigo/org/Grid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SquareGame/org/academiadecodigo/org/Grid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SquareGame/org/academiadecodigo/org/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SquareGame/org/academiadecodigo/org/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SquareGame/org/academiadecodigo/org/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SquareGame/org/academiadecodigo/org/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/map.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/map.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/academiadecodigo/org/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/academiadecodigo/org/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AYi6cOOW2wIidknwmILD2dVoXp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/pedro/workjava/SquareGame/SquareGame/out/artifacts/SquareGame_jar/SquareGame.jar",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JAR Application.SquareGame">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.academiadecodigo.org.Main" />
+      <module name="SquareGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.academiadecodigo.org.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareGame" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/SquareGame_jar/SquareGame.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SquareGame:jar" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JAR Application.SquareGame" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8e99624-18d4-4cc6-a247-13eacfef0d3d" name="Changes" comment="" />
+      <created>1655192744335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655192744335</updated>
+      <workItem from="1655192745645" duration="72000" />
+      <workItem from="1655193253779" duration="27991000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
